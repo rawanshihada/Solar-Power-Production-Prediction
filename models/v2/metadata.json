@@ -5,15 +5,11 @@
     "AirPressure",
     "Radiation",
     "AirTemperature",
-    "RelativeAirHumidity",
-    "hour_sin",
-    "hour_cos",
-    "doy_sin",
-    "doy_cos"
+    "RelativeAirHumidity"
   ],
   "target": "SystemProduction",
   "unit": "Wh",
-  "cv_mae": 365.95,
+  "cv_mae": 462.74,
   "n_rows": 8256,
   "seed": 42,
   "sklearn": "1.9.0"

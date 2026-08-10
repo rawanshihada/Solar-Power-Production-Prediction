@@ -1,0 +1,13 @@
+{
+  "promoted": "v2",
+  "versions": {
+    "v1": {
+      "cv_mae": 476.94,
+      "note": "raw data, no cleaning, no tuning"
+    },
+    "v2": {
+      "cv_mae": 462.74,
+      "note": "cleaned data, tuned"
+    }
+  }
+}
