@@ -1,0 +1,19 @@
+{
+  "features": [
+    "WindSpeed",
+    "Sunshine",
+    "AirPressure",
+    "Radiation",
+    "AirTemperature",
+    "RelativeAirHumidity",
+    "Hour",
+    "Month"
+  ],
+  "target": "SystemProduction",
+  "unit": "Wh",
+  "cv_mae": 476.94,
+  "n_rows": 8760,
+  "seed": 42,
+  "sklearn": "1.9.0",
+  "note": "raw data, no cleaning, no tuning"
+}
