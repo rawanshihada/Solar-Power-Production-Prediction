@@ -14,5 +14,4 @@ joblib==1.5.3
 # API
 fastapi==0.141.1
 uvicorn[standard]==0.52.1
-pydantic==2.13.4Test-Path
-Get-Content 
+pydantic==2.13.4
